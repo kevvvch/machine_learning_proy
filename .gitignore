@@ -1,4 +1,5 @@
-dataset/
+dataset_raw/
+dataset_t/
 sklearn-env/
 
 # Byte-compiled / optimized / DLL files
